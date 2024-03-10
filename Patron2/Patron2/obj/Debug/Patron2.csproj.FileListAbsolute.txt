@@ -1,0 +1,7 @@
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Patron2\Patron2\bin\Debug\Patron2.exe.config
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Patron2\Patron2\bin\Debug\Patron2.exe
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Patron2\Patron2\bin\Debug\Patron2.pdb
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Patron2\Patron2\obj\Debug\Patron2.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Patron2\Patron2\obj\Debug\Patron2.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Patron2\Patron2\obj\Debug\Patron2.exe
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Patron2\Patron2\obj\Debug\Patron2.pdb
